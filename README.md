@@ -8,17 +8,17 @@ Any available layer height is supported. Tested and known to work with all of th
 Standard cards 50mm x 25mm, print in under 20 minutes, and come in 0.25mm, 0.4mm, and 0.6mm nozzle sizes.
 They are denoted by `STD`.
 
-![Standard Cards](/images/std.png)
+![Standard Cards](/images/std.jpg)
 
 
 ### Standard Large
 Standard large cards are 80mm x 30mm, take roughly 40 minutes to print, but can help get a larger-scale view of problems.  Also comes in 0.25mm, 0.4mm, and 0.6mm nozzle varieties.
 They are denoted by `STD Large`.
 
-![Standard Large Cards](/images/std_large.png)
+![Standard Large Cards](/images/std_large.jpg)
 
 ### Scaled
 Scaled cards are scaled to the nozzle size, relative to the 0.4mm STD and 0.4mm STD Large cards.  There scaled versions of the 0.25mm and 0.6mm STD and STD Large cards.  The 0.4mm STD and 0.4mm STD Large are their own 'scaled' variants.
 They are deonted by 'SCALED'.
 
-![Standard Cards](/images/scaled.png)
+![Standard Cards](/images/scaled.jpg)
